@@ -1,1 +1,1 @@
-# basics-of-git
+# basics-of-git-command
